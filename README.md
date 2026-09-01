@@ -1,22 +1,19 @@
+<div align="center">
+
 # Hey 👋 I'm AbdELRaouf Mohamed
 
-### First-Year Computer Science Student | Future Software Engineer
+### 💻 Computer Science Student | Future Software Engineer
 
-I am a Computer Science student and future software engineer with a strong passion for programming, problem-solving, and continuous learning.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hello+I'm+AbdELRaouf;C%2B%2B+Learner;Python+Learner;Database+Learner">
 
-Currently building my foundation in C++, Python, and Databases, and looking forward to turning ideas into functional code through hands-on projects.
+<br><br>
 
-## Skills
+<a href="./cv-simple.pdf">
+<img src="https://img.shields.io/badge/My_CV-00C853?style=for-the-badge">
+</a>
 
-- C++
-- Python
-- Databases / SQL
+<a href="./portfolio.html">
+<img src="https://img.shields.io/badge/My_Portfolio-00C853?style=for-the-badge">
+</a>
 
-## Certificates
-
-I am building my knowledge through courses, training, and practical learning.
-
-
-## Connect with me
-
-[My CV](./cv-simple.pdf) · [My Portfolio](./portfolio.html) · [LinkedIn](https://www.linkedin.com/in/abd-elraouf-mohamed-4b38b23a9)
+</div>
