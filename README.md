@@ -4,7 +4,7 @@
 
 ### 💻 First-Year Computer Science Student | Future Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4DCE&center=true&vCenter=true&width=500&lines=AbdELRaouf+Mohamed">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4DCE&center=true&vCenter=true&width=600&lines=Hello+I%27m+AbdELRaouf+Mohamed">
 
 ## Skills
 
