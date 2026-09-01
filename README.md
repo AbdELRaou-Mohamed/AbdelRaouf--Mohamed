@@ -16,6 +16,7 @@ Currently building my foundation in C++, Python, and Databases, and looking forw
 
 I am building my knowledge through courses, training, and practical learning.
 
+
 ## Connect with me
 
 [My CV](./cv-simple.pdf) · [My Portfolio](./portfolio.html) · [LinkedIn](https://www.linkedin.com/in/abd-elraouf-mohamed-4b38b23a9)
