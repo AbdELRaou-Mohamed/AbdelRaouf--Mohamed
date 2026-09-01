@@ -2,7 +2,7 @@
 
 # Hey 👋 I'm AbdELRaouf Mohamed
 
-### First-Year Computer Science Student | Future Software Engineer
+### 💻 First-Year Computer Science Student | Future Software Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4DCE&center=true&vCenter=true&width=500&lines=AbdELRaouf+Mohamed">
 
