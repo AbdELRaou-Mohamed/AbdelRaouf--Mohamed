@@ -10,6 +10,14 @@ C++ • Python • Databases / SQL
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-elraouf-mohamed-4b38b23a9)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:am5437801@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdELRaou-Mohamed)
+<p align="left">
+  <a href="https://www.linkedin.com/in/abd-elraouf-mohamed-4b38b23a9" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-00FF66?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn">
+  </a>
+  <a href="mailto:am5437801@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-00FF66?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail">
+  </a>
+  <a href="https://github.com/AbdELRaou-Mohamed" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="GitHub">
+  </a>
+</p>
