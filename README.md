@@ -12,7 +12,9 @@ C++ · Python · Databases / SQL
 
 <br>
 
-<a href="https://file:///C:/Users/oem/Documents/Codex/2026-08-26/new-chat/outputs/portfolio.html>
+<a href="https://abdelraouf-mohamed.github.io/AbdelRaouf--Mohamed/" target="_blank">
+  <img src="https://img.shields.io/badge/My_Portfolio-00C853?style=for-the-badge">
+</a>
 <img src="https://img.shields.io/badge/My_Portfolio-00C853?style=for-the-badge">
 </a>
 
