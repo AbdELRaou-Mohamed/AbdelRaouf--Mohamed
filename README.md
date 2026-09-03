@@ -1,38 +1,15 @@
-<div align="center">
-
-# Hey 👋 I'm AbdELRaouf Mohamed
+# Hey 👋 I'm AbdelRaouf Mohamed
 
 ### 💻 First-Year Computer Science Student | Future Software Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4DCE&center=true&vCenter=true&width=600&lines=Hello+I%27m+AbdELRaouf+Mohamed">
+Hello I'm AbdelRaouf Mohamed
 
 ## Skills
 
-C++ · Python · Databases / SQL
+C++ • Python • Databases / SQL
 
-<br>
+## Let's Connect
 
-<a href="https://am5437801-source.github.io/AbdelRaouf--Mohamed/portfolio.html">
-<img src="https://img.shields.io/badge/My_Portfolio-00C853?style=for-the-badge">
-</a>
-
-<a href="./cv-simple.pdf">
-<img src="https://img.shields.io/badge/My_CV-00C853?style=for-the-badge">
-</a>
-
-</div>
-<br>
-
-## 🔗 Let's Connect
-
-<a href="https://www.linkedin.com/in/abd-elraouf-mohamed-4b38b23a9">
-<img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:am5437801@gmail.com">
-<img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/am5437801-source">
-<img src="https://img.shields.io/badge/GitHub-00C853?style=for-the-badge&logo=github&logoColor=white">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abd-elraouf-mohamed-4b38b23a9)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:am5437801@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdelRaouf--Mohamed)
